@@ -1,3 +1,4 @@
+这是第二个用户
 init
 fdf
 ihello
