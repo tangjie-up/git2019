@@ -1,5 +1,4 @@
 这是第二个用户
 dddinit
 fdf
-ihello
 a.txt
