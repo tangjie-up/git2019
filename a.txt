@@ -1,5 +1,4 @@
 init
-hello second
 fdf
 ihello
 a.txt
